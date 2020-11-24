@@ -1,0 +1,8 @@
+-----------MERN-----------
+M = mongo db (database solution)
+E = express (Node js framework)
+R = React js (browser side javascript library)
+N = Node Js (server side javascript runtime)
+-----------------------------------
+
+React js = permite crear interfaces de usuario altamente reactivas
